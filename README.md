@@ -27,9 +27,12 @@ Aplicación web desarrollada con React para la gestión y organización de tarea
 * Local Storage API
 * DnD Kit
 
-## Capturas
-(assets/Home.png)
-(assets/Modooscuro.png)
+
+### Vista principal
+![Vista principal](assets/Home.png)
+
+### Modo oscuro
+![Modo oscuro](assets/Modoscuro.png)
 
 ## Instalación
 
