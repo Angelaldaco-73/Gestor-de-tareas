@@ -30,11 +30,8 @@ Aplicación web desarrollada con React para la gestión y organización de tarea
 ## Capturas
 (assets/Home.png)
 (assets/Modooscuro.png)
-### Drag & Drop
 
-Agregar GIF o captura aquí
-
-## 📦 Instalación
+## Instalación
 
 Clona el repositorio:
 
@@ -60,7 +57,7 @@ Inicia el servidor de desarrollo:
 npm run dev
 ```
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto fue desarrollado como práctica de desarrollo frontend con React para fortalecer conocimientos sobre:
 
@@ -73,7 +70,7 @@ Este proyecto fue desarrollado como práctica de desarrollo frontend con React p
 * Drag & Drop
 * Diseño responsive
 
-## 📈 Mejoras futuras
+## Mejoras futuras
 
 * Ordenamiento avanzado de tareas
 * Fechas de vencimiento
@@ -81,7 +78,7 @@ Este proyecto fue desarrollado como práctica de desarrollo frontend con React p
 * Exportación de tareas
 * Integración con backend y base de datos
 
-## 👨‍💻 Autor
+## Autor
 
 Angel Aldaco
 
