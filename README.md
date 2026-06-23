@@ -29,7 +29,7 @@ Aplicación web desarrollada con React para la gestión y organización de tarea
 
 
 ### Vista principal
-![Vista principal](assets/Home.png)
+![Vista principal](src/assets/Home.png)
 
 ### Modo oscuro
 ![Modo oscuro](src/assets/Modooscuro.png)
