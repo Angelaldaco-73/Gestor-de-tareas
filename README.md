@@ -36,7 +36,7 @@ Aplicación web desarrollada con React para la gestión y organización de tarea
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/task-manager.git
+git clone (https://github.com/Angelaldaco-73/Gestor-de-tareas.git)
 ```
 
 Ingresa al proyecto:
