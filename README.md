@@ -32,7 +32,7 @@ Aplicación web desarrollada con React para la gestión y organización de tarea
 ![Vista principal](assets/Home.png)
 
 ### Modo oscuro
-![Modo oscuro](assets/Modooscuro.png)
+![Modo oscuro](src/assets/Modooscuro.png)
 
 ## Instalación
 
